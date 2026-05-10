@@ -1,21 +1,26 @@
 # Learning Progress Tracker
 
 ## Phase 1: Foundations
-**Status:** Starting  
+**Status:** In Progress  
 **Week:** 1 of 4  
-**Current Focus:** Variables and Data Types
+**Current Focus:** JavaScript Basics
 
 ### Completed
-- [ ] JavaScript fundamentals course (FreeCodeCamp)
-- [ ] First 5 Codewars problems
+- [x] Installed Node.js
+- [x] Installed VS Code
+- [x] Created practice folder
 
 ### In Progress
-- [ ] Building calculator program
+- [ ] The Net Ninja "JavaScript Tutorial for Beginners" (foundational course)
+- [ ] Understanding variables, data types, basic syntax
 
 ### Next
-- [ ] Temperature converter project
-- [ ] Week 1 checkpoint
+- [ ] Complete Net Ninja basics course
+- [ ] FreeCodeCamp "JavaScript Algorithms and Data Structures" course
+- [ ] Write first JavaScript program
 
 ### Notes
-- Learning JavaScript (not Python)
-- Using FreeCodeCamp as primary resource
+- Language: JavaScript
+- Found FreeCodeCamp was moving too fast, starting with The Net Ninja basics first
+- Timeline adjusted: Net Ninja basics → FreeCodeCamp → coding projects
+- Starting May 2026
