@@ -23,4 +23,5 @@
 - Language: JavaScript
 - Found FreeCodeCamp was moving too fast, starting with The Net Ninja basics first
 - Timeline adjusted: Net Ninja basics → FreeCodeCamp → coding projects
+- Adding codewars for python and JS
 - Starting May 2026
